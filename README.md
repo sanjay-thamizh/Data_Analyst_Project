@@ -1,4 +1,7 @@
-This project demonstrates an end-to-end **Data Analytics workflow**, starting from data loading and preprocessing to visualization and reporting. The project uses **Python** for data analysis, **SQL** for querying databases, **Power BI** for interactive dashboards, and **Gamma** for creating a professional presentation.
+# 📊 Data Analytics Project
+
+📌 Overview
+This project demonstrates an end-to-end Data Analytics workflow, starting from data loading and preprocessing to visualization and reporting. The project uses Python for data analysis, SQL for querying databases, Power BI for interactive dashboards, and Gamma for creating a professional presentation.
 
 The objective is to extract meaningful insights from raw data and present them in a clear, business-friendly format.
 
