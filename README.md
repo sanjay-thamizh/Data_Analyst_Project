@@ -94,11 +94,11 @@ Data-Analytics-Project/
 
 <img width="1280" height="720" alt="1789204481114" src="https://github.com/user-attachments/assets/060c3cf8-1690-4fb3-8cc9-3e1a64a2bdcd" />
 
-<img width="1280" height="720" alt="1789204481114" src="https://github.com/user-attachments/assets/dbe2131a-34bf-46e9-9c17-14ba1ea4d302" />
+<img width="1280" height="720" alt="ss" src="https://github.com/user-attachments/assets/edf63997-b326-4470-b768-bc2ad2de7d6a" />
 
+📊Power BI — used to build an interactive dashboard for visual storytelling.
 
-
-
+<img width="1280" height="632" alt="1789204485818" src="https://github.com/user-attachments/assets/6054aa90-d5a8-45ea-b15a-5adb7e974904" />
 
 ## 📌 Future Enhancements
 
