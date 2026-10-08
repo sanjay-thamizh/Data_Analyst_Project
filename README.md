@@ -1,4 +1,4 @@
-# 📊 Data Analytics Project
+<img width="1280" height="720" alt="1789204481114" src="https://github.com/user-attachments/assets/3490d0db-35b5-4698-8e24-5d506047b6de" /># 📊 Data Analytics Project
 
 ## 📌 Overview
 This project demonstrates an end-to-end **Data Analytics workflow**, starting from data loading and preprocessing to visualization and reporting. The project uses **Python** for data analysis, **SQL** for querying databases, **Power BI** for interactive dashboards, and **Gamma** for creating a professional presentation.
@@ -87,7 +87,16 @@ Data-Analytics-Project/
 ## 📸 Project Screenshots
 
 📓Jupyter Notebook — used to write and run the Python code for analysis.
+
 <img width="1280" height="629" alt="1789204477136" src="https://github.com/user-attachments/assets/b36aca58-9f73-4652-a2ab-96e08547b2e7" />
+
+🗄️PostgreSQL — used to structure the data and run business-focused queries.
+
+<img width="1280" height="720" alt="1789204481114" src="https://github.com/user-attachments/assets/060c3cf8-1690-4fb3-8cc9-3e1a64a2bdcd" />
+
+<img width="1280" height="720" alt="1789204481114" src="https://github.com/user-attachments/assets/dbe2131a-34bf-46e9-9c17-14ba1ea4d302" />
+
+
 
 
 
