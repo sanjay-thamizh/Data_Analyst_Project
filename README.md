@@ -1,6 +1,3 @@
-<img width="1280" height="720" alt="1789204481114" src="https://github.com/user-attachments/assets/3490d0db-35b5-4698-8e24-5d506047b6de" /># 📊 Data Analytics Project
-
-## 📌 Overview
 This project demonstrates an end-to-end **Data Analytics workflow**, starting from data loading and preprocessing to visualization and reporting. The project uses **Python** for data analysis, **SQL** for querying databases, **Power BI** for interactive dashboards, and **Gamma** for creating a professional presentation.
 
 The objective is to extract meaningful insights from raw data and present them in a clear, business-friendly format.
