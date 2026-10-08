@@ -86,6 +86,10 @@ Data-Analytics-Project/
 
 ## 📸 Project Screenshots
 
+📓Jupyter Notebook — used to write and run the Python code for analysis.
+<img width="1280" height="629" alt="1789204477136" src="https://github.com/user-attachments/assets/b36aca58-9f73-4652-a2ab-96e08547b2e7" />
+
+
 
 ## 📌 Future Enhancements
 
